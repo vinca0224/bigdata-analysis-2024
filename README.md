@@ -1,7 +1,7 @@
 # bigdata-analysis-2024
 빅데이터 분석 리포지토리
 
-## [3일차]
+## [3일차](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day03.md)
 - 빅데이터 분석 학습
     - Pandas 사용법 학습
     - Numpy 사용법
