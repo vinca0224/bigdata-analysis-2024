@@ -9,7 +9,7 @@
 - 중국인 관광객 수 데이터 시각화 계속
     - TOP5 국가별 관광객 추이
 
-        ![국가별 관광객](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day03/ba006.png)
+        ![국가별 관광객](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day04/ba006.png)
 
 ##### 제주도 핫플레이스 웹크롤링
 - 인스타그램 크롤링
@@ -17,4 +17,4 @@
 - 해시태그 빈도 분석
     - 바차트, 워드 클라우드
 
-    ![워드 클라우드](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day03/ba008.png)
+    ![워드 클라우드](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day04/ba008.png)
