@@ -9,4 +9,4 @@
 - 전체 내용은 da09_코로나바이러스영향_중국인관광객수_감소분석.ipynb 참조
 - 결과화면
 
-    ![중국관광객](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day03/output.png)
+    ![중국관광객](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day03/ba005.png)
