@@ -11,7 +11,7 @@
 - 빅데이터 분석 실습
     - COVID-19 영향으로 중국인 관광객 수 감소여부 분석
 
-## [3일차](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day04.md)
+## [4일차](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day04.md)
 - 빅데이터 분석 실습
     - COVID-19 영향으로 중국인 관광객 수 감소여부 분석
     - 제주도 핫플레이스 웹크롤링, 분석
