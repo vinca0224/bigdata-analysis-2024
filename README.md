@@ -34,3 +34,6 @@
 - 빅데이터 분석 실습
     - 무선청소기 종류 분석
     
+## [9일차](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day09.md)
+- 빅데이터 분석 실습
+    - 캐글관련 실습

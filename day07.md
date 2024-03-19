@@ -29,3 +29,9 @@
 
 ##### 무선청소기 인기상품 비교분석
 - 다나와 웹크롤링 중 가격컬럼에 잘못된 데이터 들어온 문제
+- 전처리
+    - 결측치, 이상치 처리(수동, fillna(), dropna() 등)
+- 시각화를 통한 가성비 좋은 제품 시각화
+
+    ![시각화](https://github.com/vinca0224/bigdata-analysis-2024/blob/main/day04/ba011.png)
+    
